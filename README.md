@@ -53,3 +53,4 @@ __tests__/                  testes unitários (Jest)
 ## Autor
 
 Ana Clara · [GitHub](https://github.com/MsAnaCode)
+
